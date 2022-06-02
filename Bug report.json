@@ -1,3 +1,6 @@
+{
+  "Bug report":
+[
 { 
 "Title": "Widget icon, widget size values”,
 "Bug_id": 102,
@@ -15,6 +18,8 @@
 }
 ]
 "AR": "parameters <Height>(H) and <Width(W)> are set to 0"
-"ER": "the parameters <Height> (H) and <Width> (W) are in values ​​in relation to the screen resolution settings that the user has set"
+"ER": "the parameters <Height> (H) and <Width> (W) are in values in relation to the screen resolution settings that the user has set"
 "Attachments": "https://drive.google.com/file/d/1vQ_dc2Dkg2FlycsTAk9e5Qx1jw9_6N3T/view?usp=sharing"
+}
+]
 }
