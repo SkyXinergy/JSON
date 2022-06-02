@@ -22,7 +22,7 @@
 			"19": "Command line (terminal) Linux (copy, create, view, move files on servers without a graphical interface)",
 			"20": "Basics of bash scripting, automation of routine tasks on the server",
 			"21": "Access to remote servers",
-			"22": "Основы SQL (создать, удалить, удалить, вставить, выбрать, откуда, куда, присоединиться)",
+			"22": "SQL Basics (Create, Delete, Delete, Insert, Select, From, Where, Join)",
 			"23": "Basics of SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
 			"24": "Non-relational Redis database (installation, configuration and use)",
 			"25": "Load Testing in Jmeter",
